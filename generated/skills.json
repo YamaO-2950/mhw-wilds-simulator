@@ -1,0 +1,2478 @@
+[
+  {
+    "name": "攻撃",
+    "category": "パラメータ変化",
+    "details": [
+      {
+        "name": "攻撃Lv1",
+        "point": 1,
+        "description": "攻撃力+3"
+      },
+      {
+        "name": "攻撃Lv2",
+        "point": 2,
+        "description": "攻撃力+6"
+      },
+      {
+        "name": "攻撃Lv3",
+        "point": 3,
+        "description": "攻撃力+9"
+      },
+      {
+        "name": "攻撃Lv4",
+        "point": 4,
+        "description": "攻撃力を1.05倍し、攻撃力に+7"
+      },
+      {
+        "name": "攻撃Lv5",
+        "point": 5,
+        "description": "攻撃力を1.06倍し、攻撃力に+8"
+      },
+      {
+        "name": "攻撃Lv6",
+        "point": 6,
+        "description": "攻撃力を1.08倍し、攻撃力に+9"
+      },
+      {
+        "name": "攻撃Lv7",
+        "point": 7,
+        "description": "攻撃力を1.1倍し、攻撃力に+10"
+      }
+    ]
+  },
+  {
+    "name": "挑戦者",
+    "category": "戦闘(攻撃)",
+    "details": [
+      {
+        "name": "挑戦者Lv1",
+        "point": 1,
+        "description": "戦闘中の大型モンスターが怒ると、基礎攻撃力+4、会心率+3%"
+      },
+      {
+        "name": "挑戦者Lv2",
+        "point": 2,
+        "description": "戦闘中の大型モンスターが怒ると、基礎攻撃力+8、会心率+5%"
+      },
+      {
+        "name": "挑戦者Lv3",
+        "point": 3,
+        "description": "戦闘中の大型モンスターが怒ると、基礎攻撃力+12、会心率+7%"
+      },
+      {
+        "name": "挑戦者Lv4",
+        "point": 4,
+        "description": "戦闘中の大型モンスターが怒ると、基礎攻撃力+16、会心率+10%"
+      },
+      {
+        "name": "挑戦者Lv5",
+        "point": 5,
+        "description": "戦闘中の大型モンスターが怒ると、基礎攻撃力+20、会心率+15%"
+      }
+    ]
+  },
+  {
+    "name": "フルチャージ",
+    "category": "戦闘(攻撃)",
+    "details": [
+      {
+        "name": "フルチャージLv1",
+        "point": 1,
+        "description": "体力が最大の時、基礎攻撃力+5"
+      },
+      {
+        "name": "フルチャージLv2",
+        "point": 2,
+        "description": "体力が最大の時、基礎攻撃力+10"
+      },
+      {
+        "name": "フルチャージLv3",
+        "point": 3,
+        "description": "体力が最大の時、基礎攻撃力+20"
+      }
+    ]
+  },
+  {
+    "name": "逆恨み",
+    "category": "戦闘(攻撃)",
+    "details": [
+      {
+        "name": "逆恨みLv1",
+        "point": 1,
+        "description": "体力ゲージに赤い部分がある間、基礎攻撃力+5"
+      },
+      {
+        "name": "逆恨みLv2",
+        "point": 2,
+        "description": "体力ゲージに赤い部分がある間、基礎攻撃力+10"
+      },
+      {
+        "name": "逆恨みLv3",
+        "point": 3,
+        "description": "体力ゲージに赤い部分がある間、基礎攻撃力+15"
+      },
+      {
+        "name": "逆恨みLv4",
+        "point": 4,
+        "description": "体力ゲージに赤い部分がある間、基礎攻撃力+20"
+      },
+      {
+        "name": "逆恨みLv5",
+        "point": 5,
+        "description": "体力ゲージに赤い部分がある間、基礎攻撃力+25"
+      }
+    ]
+  },
+  {
+    "name": "死中に活",
+    "category": "戦闘(攻撃)",
+    "details": [
+      {
+        "name": "死中に活Lv1",
+        "point": 1,
+        "description": "状態異常中は攻撃力が上がる。スキル発動中、攻撃力+5"
+      },
+      {
+        "name": "死中に活Lv2",
+        "point": 2,
+        "description": "状態異常中は攻撃力が上がる。スキル発動中、攻撃力+10"
+      },
+      {
+        "name": "死中に活Lv3",
+        "point": 3,
+        "description": "状態異常中は攻撃力が上がる。スキル発動中、攻撃力+20"
+      }
+    ]
+  },
+  {
+    "name": "見切り",
+    "category": "戦闘(攻撃)",
+    "details": [
+      {
+        "name": "見切りLv1",
+        "point": 1,
+        "description": "会心率+5%"
+      },
+      {
+        "name": "見切りLv2",
+        "point": 2,
+        "description": "会心率+10%"
+      },
+      {
+        "name": "見切りLv3",
+        "point": 3,
+        "description": "会心率+15%"
+      },
+      {
+        "name": "見切りLv4",
+        "point": 4,
+        "description": "会心率+20%"
+      },
+      {
+        "name": "見切りLv5",
+        "point": 5,
+        "description": "会心率+25%"
+      },
+      {
+        "name": "見切りLv6",
+        "point": 6,
+        "description": "会心率+30%"
+      },
+      {
+        "name": "見切りLv7",
+        "point": 7,
+        "description": "会心率+40%"
+      }
+    ]
+  },
+  {
+    "name": "超会心",
+    "category": "戦闘(攻撃)",
+    "details": [
+      {
+        "name": "超会心Lv1",
+        "point": 1,
+        "description": "会心攻撃のダメージ倍率を1.3倍に強化する"
+      },
+      {
+        "name": "超会心Lv2",
+        "point": 2,
+        "description": "会心攻撃のダメージ倍率を1.35倍に強化する"
+      },
+      {
+        "name": "超会心Lv3",
+        "point": 3,
+        "description": "会心攻撃のダメージ倍率を1.4倍に強化する"
+      }
+    ]
+  },
+  {
+    "name": "弱点特効",
+    "category": "戦闘(攻撃)",
+    "details": [
+      {
+        "name": "弱点特効Lv1",
+        "point": 1,
+        "description": "有効部位への攻撃時、会心率+15％"
+      },
+      {
+        "name": "弱点特効Lv2",
+        "point": 2,
+        "description": "有効部位への攻撃時、会心率+30％"
+      },
+      {
+        "name": "弱点特効Lv3",
+        "point": 3,
+        "description": "有効部位への攻撃時、会心率+50％"
+      }
+    ]
+  },
+  {
+    "name": "力の解放",
+    "category": "戦闘(攻撃)",
+    "details": [
+      {
+        "name": "力の解放Lv1",
+        "point": 1,
+        "description": "特定の条件を満たすと、一定時間会心率+10%、固定スタミナ消費量30%軽減"
+      },
+      {
+        "name": "力の解放Lv2",
+        "point": 2,
+        "description": "特定の条件を満たすと、一定時間会心率+20%、固定スタミナ消費量30%軽減"
+      },
+      {
+        "name": "力の解放Lv3",
+        "point": 3,
+        "description": "特定の条件を満たすと、一定時間会心率+30%、固定スタミナ消費量50%軽減"
+      },
+      {
+        "name": "力の解放Lv4",
+        "point": 4,
+        "description": "特定の条件を満たすと、一定時間会心率+40%、固定スタミナ消費量50%軽減"
+      },
+      {
+        "name": "力の解放Lv5",
+        "point": 5,
+        "description": "特定の条件を満たすと、一定時間会心率+50%、固定スタミナ消費量50%軽減"
+      }
+    ]
+  },
+  {
+    "name": "渾身",
+    "category": "戦闘(攻撃)",
+    "details": [
+      {
+        "name": "渾身Lv1",
+        "point": 1,
+        "description": "スタミナゲージが満タン状態を5秒間維持すれば、会心率+10%"
+      },
+      {
+        "name": "渾身Lv2",
+        "point": 2,
+        "description": "スタミナゲージが満タン状態を5秒間維持すれば、会心率+20%"
+      },
+      {
+        "name": "渾身Lv3",
+        "point": 3,
+        "description": "スタミナゲージが満タン状態を5秒間維持すれば、会心率+30%"
+      }
+    ]
+  },
+  {
+    "name": "会心撃【属性】",
+    "category": "戦闘(属性・異常)",
+    "details": [
+      {
+        "name": "会心撃【属性】Lv1",
+        "point": 1,
+        "description": "攻撃で会心が発生した際に、与える属性ダメージが高くなる。効果発動時、属性ダメージ1.05倍"
+      },
+      {
+        "name": "会心撃【属性】Lv2",
+        "point": 2,
+        "description": "攻撃で会心が発生した際に、与える属性ダメージが高くなる。効果発動時、属性ダメージ1.1倍"
+      },
+      {
+        "name": "会心撃【属性】Lv3",
+        "point": 3,
+        "description": "攻撃で会心が発生した際に、与える属性ダメージが高くなる。効果発動時、属性ダメージ1.2倍"
+      }
+    ]
+  },
+  {
+    "name": "火属性攻撃強化",
+    "category": "戦闘(属性・異常)",
+    "details": [
+      {
+        "name": "火属性攻撃強化Lv1",
+        "point": 1,
+        "description": "火属性攻撃値+2"
+      },
+      {
+        "name": "火属性攻撃強化Lv2",
+        "point": 2,
+        "description": "火属性攻撃値+3"
+      },
+      {
+        "name": "火属性攻撃強化Lv3",
+        "point": 3,
+        "description": "火属性攻撃値を1.05倍し、火属性攻撃値に+4"
+      },
+      {
+        "name": "火属性攻撃強化Lv4",
+        "point": 4,
+        "description": "火属性攻撃値を1.1倍し、火属性攻撃値に+4"
+      },
+      {
+        "name": "火属性攻撃強化Lv5",
+        "point": 5,
+        "description": "火属性攻撃値を1.2倍し、火属性攻撃値に+4"
+      }
+    ]
+  },
+  {
+    "name": "水属性攻撃強化",
+    "category": "戦闘(属性・異常)",
+    "details": [
+      {
+        "name": "水属性攻撃強化Lv1",
+        "point": 1,
+        "description": "水属性攻撃値+2"
+      },
+      {
+        "name": "水属性攻撃強化Lv2",
+        "point": 2,
+        "description": "水属性攻撃値+3"
+      },
+      {
+        "name": "水属性攻撃強化Lv3",
+        "point": 3,
+        "description": "水属性攻撃値を1.05倍し、水属性攻撃値に+4"
+      },
+      {
+        "name": "水属性攻撃強化Lv4",
+        "point": 4,
+        "description": "水属性攻撃値を1.1倍し、水属性攻撃値に+4"
+      },
+      {
+        "name": "水属性攻撃強化Lv5",
+        "point": 5,
+        "description": "水属性攻撃値を1.2倍し、水属性攻撃値に+4"
+      }
+    ]
+  },
+  {
+    "name": "氷属性攻撃強化",
+    "category": "戦闘(属性・異常)",
+    "details": [
+      {
+        "name": "氷属性攻撃強化Lv1",
+        "point": 1,
+        "description": "氷属性攻撃値+2"
+      },
+      {
+        "name": "氷属性攻撃強化Lv2",
+        "point": 2,
+        "description": "氷属性攻撃値+3"
+      },
+      {
+        "name": "氷属性攻撃強化Lv3",
+        "point": 3,
+        "description": "氷属性攻撃値を1.05倍し、氷属性攻撃値に+4"
+      },
+      {
+        "name": "氷属性攻撃強化Lv4",
+        "point": 4,
+        "description": "氷属性攻撃値を1.1倍し、氷属性攻撃値に+4"
+      },
+      {
+        "name": "氷属性攻撃強化Lv5",
+        "point": 5,
+        "description": "氷属性攻撃値を1.2倍し、氷属性攻撃値に+4"
+      }
+    ]
+  },
+  {
+    "name": "雷属性攻撃強化",
+    "category": "戦闘(属性・異常)",
+    "details": [
+      {
+        "name": "雷属性攻撃強化Lv1",
+        "point": 1,
+        "description": "雷属性攻撃値+2"
+      },
+      {
+        "name": "雷属性攻撃強化Lv2",
+        "point": 2,
+        "description": "雷属性攻撃値+3"
+      },
+      {
+        "name": "雷属性攻撃強化Lv3",
+        "point": 3,
+        "description": "雷属性攻撃値を1.05倍し、雷属性攻撃値に+4"
+      },
+      {
+        "name": "雷属性攻撃強化Lv4",
+        "point": 4,
+        "description": "雷属性攻撃値を1.1倍し、雷属性攻撃値に+4"
+      },
+      {
+        "name": "雷属性攻撃強化Lv5",
+        "point": 5,
+        "description": "雷属性攻撃値を1.2倍し、雷属性攻撃値に+4"
+      }
+    ]
+  },
+  {
+    "name": "龍属性攻撃強化",
+    "category": "戦闘(属性・異常)",
+    "details": [
+      {
+        "name": "龍属性攻撃強化Lv1",
+        "point": 1,
+        "description": "龍属性攻撃値+2"
+      },
+      {
+        "name": "龍属性攻撃強化Lv2",
+        "point": 2,
+        "description": "龍属性攻撃値+3"
+      },
+      {
+        "name": "龍属性攻撃強化Lv3",
+        "point": 3,
+        "description": "龍属性攻撃値を1.05倍し、龍属性攻撃値に+4"
+      },
+      {
+        "name": "龍属性攻撃強化Lv4",
+        "point": 4,
+        "description": "龍属性攻撃値を1.1倍し、龍属性攻撃値に+4"
+      },
+      {
+        "name": "龍属性攻撃強化Lv5",
+        "point": 5,
+        "description": "龍属性攻撃値を1.2倍し、龍属性攻撃値に+4"
+      }
+    ]
+  },
+  {
+    "name": "毒属性強化",
+    "category": "戦闘(属性・異常)",
+    "details": [
+      {
+        "name": "毒属性強化Lv1",
+        "point": 1,
+        "description": "毒の蓄積値を1.05倍し、毒の蓄積値に+1"
+      },
+      {
+        "name": "毒属性強化Lv2",
+        "point": 2,
+        "description": "毒の蓄積値を1.1倍し、毒の蓄積値に+2"
+      },
+      {
+        "name": "毒属性強化Lv3",
+        "point": 3,
+        "description": "毒の蓄積値を1.2倍し、毒の蓄積値に+5"
+      }
+    ]
+  },
+  {
+    "name": "麻痺属性強化",
+    "category": "戦闘(属性・異常)",
+    "details": [
+      {
+        "name": "麻痺属性強化Lv1",
+        "point": 1,
+        "description": "麻痺の蓄積値を1.05倍し、麻痺の蓄積値に+1"
+      },
+      {
+        "name": "麻痺属性強化Lv2",
+        "point": 2,
+        "description": "麻痺の蓄積値を1.1倍し、麻痺の蓄積値に+2"
+      },
+      {
+        "name": "麻痺属性強化Lv3",
+        "point": 3,
+        "description": "麻痺の蓄積値を1.2倍し、麻痺の蓄積値に+5"
+      }
+    ]
+  },
+  {
+    "name": "睡眠属性強化",
+    "category": "戦闘(属性・異常)",
+    "details": [
+      {
+        "name": "睡眠属性強化Lv1",
+        "point": 1,
+        "description": "睡眠の蓄積値を1.05倍し、睡眠の蓄積値に+1"
+      },
+      {
+        "name": "睡眠属性強化Lv2",
+        "point": 2,
+        "description": "睡眠の蓄積値を1.1倍し、睡眠の蓄積値に+2"
+      },
+      {
+        "name": "睡眠属性強化Lv3",
+        "point": 3,
+        "description": "睡眠の蓄積値を1.2倍し、睡眠の蓄積値に+5"
+      }
+    ]
+  },
+  {
+    "name": "爆破属性強化",
+    "category": "戦闘(属性・異常)",
+    "details": [
+      {
+        "name": "爆破属性強化Lv1",
+        "point": 1,
+        "description": "爆破の蓄積値を1.05倍し、爆破の蓄積値に+1"
+      },
+      {
+        "name": "爆破属性強化Lv2",
+        "point": 2,
+        "description": "爆破の蓄積値を1.1倍し、爆破の蓄積値に+2"
+      },
+      {
+        "name": "爆破属性強化Lv3",
+        "point": 3,
+        "description": "爆破の蓄積値を1.2倍し、爆破の蓄積値に+5"
+      }
+    ]
+  },
+  {
+    "name": "匠",
+    "category": "戦闘(剣士専用)",
+    "details": [
+      {
+        "name": "匠Lv1",
+        "point": 1,
+        "description": "斬れ味+10"
+      },
+      {
+        "name": "匠Lv2",
+        "point": 2,
+        "description": "斬れ味+20"
+      },
+      {
+        "name": "匠Lv3",
+        "point": 3,
+        "description": "斬れ味+30"
+      },
+      {
+        "name": "匠Lv4",
+        "point": 4,
+        "description": "斬れ味+40"
+      },
+      {
+        "name": "匠Lv5",
+        "point": 5,
+        "description": "斬れ味+50"
+      }
+    ]
+  },
+  {
+    "name": "業物",
+    "category": "戦闘(剣士専用)",
+    "details": [
+      {
+        "name": "業物Lv1",
+        "point": 1,
+        "description": "切れ味の消耗を抑える。発動確率10％"
+      },
+      {
+        "name": "業物Lv2",
+        "point": 2,
+        "description": "切れ味の消耗を抑える。発動確率25％"
+      },
+      {
+        "name": "業物Lv3",
+        "point": 3,
+        "description": "切れ味の消耗を抑える。発動確率50％"
+      }
+    ]
+  },
+  {
+    "name": "弾丸節約",
+    "category": "戦闘(ガンナー専用)",
+    "details": [
+      {
+        "name": "弾丸節約Lv1",
+        "point": 1,
+        "description": "まれにボウガンの弾・弓のビンを消費せずに発射できる。発動確率3％"
+      },
+      {
+        "name": "弾丸節約Lv2",
+        "point": 2,
+        "description": "まれにボウガンの弾・弓のビンを消費せずに発射できる。発動確率10％"
+      },
+      {
+        "name": "弾丸節約Lv3",
+        "point": 3,
+        "description": "まれにボウガンの弾・弓のビンを消費せずに発射できる。発動確率20％"
+      }
+    ]
+  },
+  {
+    "name": "剛刃研磨",
+    "category": "戦闘(剣士専用)",
+    "details": [
+      {
+        "name": "剛刃研磨Lv1",
+        "point": 1,
+        "description": "武器を研磨すると一定時間、斬れ味が低下しない。発動後30秒効果持続"
+      },
+      {
+        "name": "剛刃研磨Lv2",
+        "point": 2,
+        "description": "武器を研磨すると一定時間、斬れ味が低下しない。発動後60秒効果持続"
+      },
+      {
+        "name": "剛刃研磨Lv3",
+        "point": 3,
+        "description": "武器を研磨すると一定時間、斬れ味が低下しない。発動後90秒効果持続"
+      }
+    ]
+  },
+  {
+    "name": "心眼",
+    "category": "戦闘(剣士専用)",
+    "details": [
+      {
+        "name": "心眼Lv1",
+        "point": 1,
+        "description": "攻撃が弾かれ辛くなり、硬い部位へのダメージが上がる。50％の確率で弾かれず硬い部位へのダメージが1.1倍"
+      },
+      {
+        "name": "心眼Lv2",
+        "point": 2,
+        "description": "攻撃が弾かれ辛くなり、硬い部位へのダメージが上がる。100％の確率で弾かれず硬い部位へのダメージが1.15倍"
+      },
+      {
+        "name": "心眼Lv3",
+        "point": 3,
+        "description": "攻撃が弾かれ辛くなり、硬い部位へのダメージが上がる。100％の確率で弾かれず硬い部位へのダメージが1.3倍"
+      }
+    ]
+  },
+  {
+    "name": "弾導強化",
+    "category": "戦闘(ガンナー専用)",
+    "details": [
+      {
+        "name": "弾導強化Lv1",
+        "point": 1,
+        "description": "適正距離がわずかに広くなる"
+      },
+      {
+        "name": "弾導強化Lv2",
+        "point": 2,
+        "description": "適正距離が広くなる"
+      },
+      {
+        "name": "弾導強化Lv3",
+        "point": 3,
+        "description": "適正距離が大幅に広くなる"
+      }
+    ]
+  },
+  {
+    "name": "鈍器使い",
+    "category": "戦闘(剣士専用)",
+    "details": [
+      {
+        "name": "鈍器使いLv1",
+        "point": 1,
+        "description": "斬れ味が黄色以下の時攻撃力が1.05倍"
+      },
+      {
+        "name": "鈍器使いLv2",
+        "point": 2,
+        "description": "斬れ味が黄色以下の時攻撃力が1.1倍"
+      },
+      {
+        "name": "鈍器使いLv3",
+        "point": 3,
+        "description": "斬れ味が緑色以下の時攻撃力が1.1倍"
+      }
+    ]
+  },
+  {
+    "name": "弓溜め段階解放",
+    "category": "戦闘(ガンナー専用)",
+    "details": [
+      {
+        "name": "弓溜め段階解放Lv1",
+        "point": 1,
+        "description": "弓の溜め段階が1段階増える"
+      }
+    ]
+  },
+  {
+    "name": "集中",
+    "category": "戦闘(攻撃)",
+    "details": [
+      {
+        "name": "集中Lv1",
+        "point": 1,
+        "description": "ゲージ上昇率5%アップ、溜め時間5%短縮"
+      },
+      {
+        "name": "集中Lv2",
+        "point": 2,
+        "description": "ゲージ上昇率10%アップ、溜め時間10%短縮"
+      },
+      {
+        "name": "集中Lv3",
+        "point": 3,
+        "description": "ゲージ上昇率20%アップ、溜め時間15%短縮"
+      }
+    ]
+  },
+  {
+    "name": "強化持続",
+    "category": "戦闘(攻撃)",
+    "details": [
+      {
+        "name": "強化持続Lv1",
+        "point": 1,
+        "description": "太刀、双剣、操虫棍、剣斧、盾斧で発生する、強化状態の持続時間を長くする。強化時間を少し延長"
+      },
+      {
+        "name": "強化持続Lv2",
+        "point": 2,
+        "description": "太刀、双剣、操虫棍、剣斧、盾斧で発生する、強化状態の持続時間を長くする。強化時間を延長"
+      },
+      {
+        "name": "強化持続Lv3",
+        "point": 3,
+        "description": "太刀、双剣、操虫棍、剣斧、盾斧で発生する、強化状態の持続時間を長くする。強化時間を大きく延長"
+      }
+    ]
+  },
+  {
+    "name": "ランナー",
+    "category": "クエスト",
+    "details": [
+      {
+        "name": "ランナーLv1",
+        "point": 1,
+        "description": "ダッシュなどの徐々にスタミナを消費する行動の継続スタミナ消費量15%軽減"
+      },
+      {
+        "name": "ランナーLv2",
+        "point": 2,
+        "description": "ダッシュなどの徐々にスタミナを消費する行動の継続スタミナ消費量30%軽減"
+      },
+      {
+        "name": "ランナーLv3",
+        "point": 3,
+        "description": "ダッシュなどの徐々にスタミナを消費する行動の継続スタミナ消費量50%軽減"
+      }
+    ]
+  },
+  {
+    "name": "体術",
+    "category": "クエスト",
+    "details": [
+      {
+        "name": "体術Lv1",
+        "point": 1,
+        "description": "回避などの固定でスタミナを消費する行動の固定スタミナ消費量10%軽減"
+      },
+      {
+        "name": "体術Lv2",
+        "point": 2,
+        "description": "回避などの固定でスタミナを消費する行動の固定スタミナ消費量20%軽減"
+      },
+      {
+        "name": "体術Lv3",
+        "point": 3,
+        "description": "回避などの固定でスタミナを消費する行動の固定スタミナ消費量30%軽減"
+      },
+      {
+        "name": "体術Lv4",
+        "point": 4,
+        "description": "回避などの固定でスタミナを消費する行動の固定スタミナ消費量40%軽減"
+      },
+      {
+        "name": "体術Lv5",
+        "point": 5,
+        "description": "回避などの固定でスタミナを消費する行動の固定スタミナ消費量50%軽減"
+      }
+    ]
+  },
+  {
+    "name": "スタミナ急速回復",
+    "category": "クエスト",
+    "details": [
+      {
+        "name": "スタミナ急速回復Lv1",
+        "point": 1,
+        "description": "減っているスタミナの回復速度1.1倍"
+      },
+      {
+        "name": "スタミナ急速回復Lv2",
+        "point": 2,
+        "description": "減っているスタミナの回復速度1.2倍"
+      },
+      {
+        "name": "スタミナ急速回復Lv3",
+        "point": 3,
+        "description": "減っているスタミナの回復速度1.4倍"
+      }
+    ]
+  },
+  {
+    "name": "ガード性能",
+    "category": "戦闘(生存)",
+    "details": [
+      {
+        "name": "ガード性能Lv1",
+        "point": 1,
+        "description": "威力をわずかに軽減"
+      },
+      {
+        "name": "ガード性能Lv2",
+        "point": 2,
+        "description": "威力をわずかに軽減し、スタミナ消費量を15%軽減"
+      },
+      {
+        "name": "ガード性能Lv3",
+        "point": 3,
+        "description": "威力を軽減し、スタミナ消費量を15%軽減"
+      },
+      {
+        "name": "ガード性能Lv4",
+        "point": 4,
+        "description": "威力を軽減し、スタミナ消費量を30%軽減"
+      },
+      {
+        "name": "ガード性能Lv5",
+        "point": 5,
+        "description": "威力を大きく軽減し、スタミナ消費量を50%軽減"
+      }
+    ]
+  },
+  {
+    "name": "ガード強化",
+    "category": "戦闘(生存)",
+    "details": [
+      {
+        "name": "ガード強化Lv1",
+        "point": 1,
+        "description": "通常はガードできない攻撃もガードできるようになる。ダメージ軽減30％"
+      },
+      {
+        "name": "ガード強化Lv2",
+        "point": 2,
+        "description": "通常はガードできない攻撃もガードできるようになる。ダメージ軽減50％"
+      },
+      {
+        "name": "ガード強化Lv3",
+        "point": 3,
+        "description": "通常はガードできない攻撃もガードできるようになる。ダメージ軽減80％"
+      }
+    ]
+  },
+  {
+    "name": "攻めの守勢",
+    "category": "戦闘(攻撃)",
+    "details": [
+      {
+        "name": "攻めの守勢Lv1",
+        "point": 1,
+        "description": "タイミング良くガードを成功させると、一定時間、攻撃力1.05倍"
+      },
+      {
+        "name": "攻めの守勢Lv2",
+        "point": 2,
+        "description": "タイミング良くガードを成功させると、一定時間、攻撃力1.1倍"
+      },
+      {
+        "name": "攻めの守勢Lv3",
+        "point": 3,
+        "description": "タイミング良くガードを成功させると、一定時間、攻撃力1.15倍"
+      }
+    ]
+  },
+  {
+    "name": "抜刀術【技】",
+    "category": "戦闘(攻撃)",
+    "details": [
+      {
+        "name": "抜刀術【技】Lv1",
+        "point": 1,
+        "description": "武器出し攻撃後一定時間会心率が上がる。会心率+10％"
+      },
+      {
+        "name": "抜刀術【技】Lv2",
+        "point": 2,
+        "description": "武器出し攻撃後一定時間会心率が上がる。会心率+20％"
+      },
+      {
+        "name": "抜刀術【技】Lv3",
+        "point": 3,
+        "description": "武器出し攻撃後一定時間会心率が上がる。会心率+40％"
+      }
+    ]
+  },
+  {
+    "name": "抜刀術【力】",
+    "category": "戦闘(攻撃)",
+    "details": [
+      {
+        "name": "抜刀術【力】Lv1",
+        "point": 1,
+        "description": "武器出し攻撃に気絶を誘発する効果がわずかに付く。武器出し攻撃の攻撃力+3"
+      },
+      {
+        "name": "抜刀術【力】Lv2",
+        "point": 2,
+        "description": "武器出し攻撃に気絶を誘発する効果が付く。武器出し攻撃の攻撃力+5"
+      },
+      {
+        "name": "抜刀術【力】Lv3",
+        "point": 3,
+        "description": "武器出し攻撃に気絶を誘発する効果が大きく付く。武器出し攻撃の攻撃力+7"
+      }
+    ]
+  },
+  {
+    "name": "納刀術",
+    "category": "戦闘(生存)",
+    "details": [
+      {
+        "name": "納刀術Lv1",
+        "point": 1,
+        "description": "武器をしまう速度がわずかに上昇"
+      },
+      {
+        "name": "納刀術Lv2",
+        "point": 2,
+        "description": "武器をしまう速度が上昇"
+      },
+      {
+        "name": "納刀術Lv3",
+        "point": 3,
+        "description": "武器をしまう速度がかなり上昇"
+      }
+    ]
+  },
+  {
+    "name": "ＫＯ術",
+    "category": "戦闘(属性・異常)",
+    "details": [
+      {
+        "name": "ＫＯ術Lv1",
+        "point": 1,
+        "description": "気絶効果1.2倍"
+      },
+      {
+        "name": "ＫＯ術Lv2",
+        "point": 2,
+        "description": "気絶効果1.3倍"
+      },
+      {
+        "name": "ＫＯ術Lv3",
+        "point": 3,
+        "description": "気絶効果1.4倍"
+      }
+    ]
+  },
+  {
+    "name": "スタミナ奪取",
+    "category": "戦闘(属性・異常)",
+    "details": [
+      {
+        "name": "スタミナ奪取Lv1",
+        "point": 1,
+        "description": "減気値が1.2倍"
+      },
+      {
+        "name": "スタミナ奪取Lv2",
+        "point": 2,
+        "description": "減気値が1.3倍"
+      },
+      {
+        "name": "スタミナ奪取Lv3",
+        "point": 3,
+        "description": "減気値が1.4倍"
+      }
+    ]
+  },
+  {
+    "name": "滑走強化",
+    "category": "戦闘(攻撃)",
+    "details": [
+      {
+        "name": "滑走強化Lv1",
+        "point": 1,
+        "description": "スライディングを行うと一定時間会心率が上昇"
+      }
+    ]
+  },
+  {
+    "name": "笛吹き名人",
+    "category": "戦闘(剣士専用)",
+    "details": [
+      {
+        "name": "笛吹き名人Lv1",
+        "point": 1,
+        "description": "狩猟笛の演奏と多重演奏が早くなり、衝撃波のダメージが上がる"
+      }
+    ]
+  },
+  {
+    "name": "砲術",
+    "category": "戦闘(攻撃)",
+    "details": [
+      {
+        "name": "砲術Lv1",
+        "point": 1,
+        "description": "ガンランスの砲撃と竜撃砲、チャージアックスのビン攻撃、徹甲榴弾などの爆破系の攻撃力が1.1倍。竜撃砲の冷却時間が15%減少"
+      },
+      {
+        "name": "砲術Lv2",
+        "point": 2,
+        "description": "ガンランスの砲撃と竜撃砲、チャージアックスのビン攻撃、徹甲榴弾などの爆破系の攻撃力が1.2倍。竜撃砲の冷却時間が30%減少"
+      },
+      {
+        "name": "砲術Lv3",
+        "point": 3,
+        "description": "ガンランスの砲撃と竜撃砲、チャージアックスのビン攻撃、徹甲榴弾などの爆破系の攻撃力が1.3倍。竜撃砲の冷却時間が50%減少"
+      }
+    ]
+  },
+  {
+    "name": "砲弾装填",
+    "category": "戦闘(剣士専用)",
+    "details": [
+      {
+        "name": "砲弾装填Lv1",
+        "point": 1,
+        "description": "砲弾の装填がスムーズになりガンランスの装填数が上昇、盾斧のビン装填数が増える。弾とビンの装填が早くなる"
+      },
+      {
+        "name": "砲弾装填Lv2",
+        "point": 2,
+        "description": "砲弾の装填がスムーズになりガンランスの装填数が上昇、盾斧のビン装填数が増える。さらにガンランスの装填数+1、盾斧のチャージ数上昇"
+      }
+    ]
+  },
+  {
+    "name": "特殊射撃強化",
+    "category": "戦闘(ガンナー専用)",
+    "details": [
+      {
+        "name": "特殊射撃強化Lv1",
+        "point": 1,
+        "description": "ボウガンの特殊弾と弓の竜の一矢の威力が1.1倍"
+      },
+      {
+        "name": "特殊射撃強化Lv2",
+        "point": 2,
+        "description": "ボウガンの特殊弾と弓の竜の一矢の威力が1.2倍"
+      }
+    ]
+  },
+  {
+    "name": "通常弾・連射矢強化",
+    "category": "戦闘(ガンナー専用)",
+    "details": [
+      {
+        "name": "通常弾・連射矢強化Lv1",
+        "point": 1,
+        "description": "通常弾、連射矢の威力をわずかにＵＰ"
+      },
+      {
+        "name": "通常弾・連射矢強化Lv2",
+        "point": 2,
+        "description": "通常弾、連射矢の威力をＵＰ"
+      },
+      {
+        "name": "通常弾・連射矢強化Lv3",
+        "point": 3,
+        "description": "通常弾、連射矢の威力をさらにＵＰ"
+      }
+    ]
+  },
+  {
+    "name": "貫通弾・貫通矢強化",
+    "category": "戦闘(ガンナー専用)",
+    "details": [
+      {
+        "name": "貫通弾・貫通矢強化Lv1",
+        "point": 1,
+        "description": "貫通弾、貫通矢の威力をわずかにＵＰ"
+      },
+      {
+        "name": "貫通弾・貫通矢強化Lv2",
+        "point": 2,
+        "description": "貫通弾、貫通矢の威力をＵＰ"
+      },
+      {
+        "name": "貫通弾・貫通矢強化Lv3",
+        "point": 3,
+        "description": "貫通弾、貫通矢の威力をさらにＵＰ"
+      }
+    ]
+  },
+  {
+    "name": "散弾・拡散矢強化",
+    "category": "戦闘(ガンナー専用)",
+    "details": [
+      {
+        "name": "散弾・拡散矢強化Lv1",
+        "point": 1,
+        "description": "散弾、放散弾、拡散矢の威力をわずかにUP"
+      },
+      {
+        "name": "散弾・拡散矢強化Lv2",
+        "point": 2,
+        "description": "散弾、放散弾、拡散矢の威力をUP"
+      },
+      {
+        "name": "散弾・拡散矢強化Lv3",
+        "point": 3,
+        "description": "散弾、放散弾、拡散矢の威力をさらにUP"
+      }
+    ]
+  },
+  {
+    "name": "装填拡張",
+    "category": "戦闘(ガンナー専用)",
+    "details": [
+      {
+        "name": "装填拡張Lv1",
+        "point": 1,
+        "description": "ボウガンの装填数が増える。一部の弾の装填数が増加"
+      },
+      {
+        "name": "装填拡張Lv2",
+        "point": 2,
+        "description": "ボウガンの装填数が増える。多くの弾の装填数が増加"
+      },
+      {
+        "name": "装填拡張Lv3",
+        "point": 3,
+        "description": "ボウガンの装填数が増える。ほとんどの弾の装填数が増加"
+      }
+    ]
+  },
+  {
+    "name": "装填速度",
+    "category": "戦闘(ガンナー専用)",
+    "details": [
+      {
+        "name": "装填速度Lv1",
+        "point": 1,
+        "description": "ボウガンの速度1段階上昇。弓の速度を早くする"
+      },
+      {
+        "name": "装填速度Lv2",
+        "point": 2,
+        "description": "ボウガンの速度2段階上昇。弓は自動でビン装着する"
+      },
+      {
+        "name": "装填速度Lv3",
+        "point": 3,
+        "description": "ボウガンの速度3段階上昇"
+      }
+    ]
+  },
+  {
+    "name": "反動軽減",
+    "category": "戦闘(ガンナー専用)",
+    "details": [
+      {
+        "name": "反動軽減Lv1",
+        "point": 1,
+        "description": "反動を1段階軽減"
+      },
+      {
+        "name": "反動軽減Lv2",
+        "point": 2,
+        "description": "反動を2段階軽減"
+      },
+      {
+        "name": "反動軽減Lv3",
+        "point": 3,
+        "description": "反動を3段階軽減"
+      }
+    ]
+  },
+  {
+    "name": "速射強化",
+    "category": "戦闘(ガンナー専用)",
+    "details": [
+      {
+        "name": "速射強化Lv1",
+        "point": 1,
+        "description": "速射弾のダメージ1.05倍"
+      },
+      {
+        "name": "速射強化Lv2",
+        "point": 2,
+        "description": "速射弾のダメージ1.1倍"
+      },
+      {
+        "name": "速射強化Lv3",
+        "point": 3,
+        "description": "速射弾のダメージ1.2倍"
+      }
+    ]
+  },
+  {
+    "name": "防御",
+    "category": "パラメータ変化",
+    "details": [
+      {
+        "name": "防御Lv1",
+        "point": 1,
+        "description": "防御力+5"
+      },
+      {
+        "name": "防御Lv2",
+        "point": 2,
+        "description": "防御力+10"
+      },
+      {
+        "name": "防御Lv3",
+        "point": 3,
+        "description": "防御力を1.05倍し、防御力+10"
+      },
+      {
+        "name": "防御Lv4",
+        "point": 4,
+        "description": "防御力を1.05倍し、防御力+20、全属性耐性値+3"
+      },
+      {
+        "name": "防御Lv5",
+        "point": 5,
+        "description": "防御力を1.08倍し、防御力+20、全属性耐性値+3"
+      },
+      {
+        "name": "防御Lv6",
+        "point": 6,
+        "description": "防御力を1.08倍し、防御力+35、全属性耐性値+5"
+      },
+      {
+        "name": "防御Lv7",
+        "point": 7,
+        "description": "防御力を1.1倍し、防御力+35、全属性耐性値+5"
+      }
+    ]
+  },
+  {
+    "name": "精霊の加護",
+    "category": "戦闘(生存)",
+    "details": [
+      {
+        "name": "精霊の加護Lv1",
+        "point": 1,
+        "description": "一定確率で受けるダメージを15%軽減"
+      },
+      {
+        "name": "精霊の加護Lv2",
+        "point": 2,
+        "description": "一定確率で受けるダメージを30%軽減"
+      },
+      {
+        "name": "精霊の加護Lv3",
+        "point": 3,
+        "description": "一定確率で受けるダメージを50%軽減"
+      }
+    ]
+  },
+  {
+    "name": "体力回復量ＵＰ",
+    "category": "アイテム",
+    "details": [
+      {
+        "name": "体力回復量ＵＰLv1",
+        "point": 1,
+        "description": "回復量がわずかに増加する"
+      },
+      {
+        "name": "体力回復量ＵＰLv2",
+        "point": 2,
+        "description": "回復量が増加する"
+      },
+      {
+        "name": "体力回復量ＵＰLv3",
+        "point": 3,
+        "description": "回復量がかなり増加する"
+      }
+    ]
+  },
+  {
+    "name": "回復速度",
+    "category": "戦闘(生存)",
+    "details": [
+      {
+        "name": "回復速度Lv1",
+        "point": 1,
+        "description": "赤ゲージの自動回復速度2倍"
+      },
+      {
+        "name": "回復速度Lv2",
+        "point": 2,
+        "description": "赤ゲージの自動回復速度3倍"
+      },
+      {
+        "name": "回復速度Lv3",
+        "point": 3,
+        "description": "赤ゲージの自動回復速度4倍"
+      }
+    ]
+  },
+  {
+    "name": "早食い",
+    "category": "アイテム",
+    "details": [
+      {
+        "name": "早食いLv1",
+        "point": 1,
+        "description": "肉やアイテムを食べる速度がわずかに上昇する"
+      },
+      {
+        "name": "早食いLv2",
+        "point": 2,
+        "description": "肉やアイテムを食べる速度が上昇する"
+      },
+      {
+        "name": "早食いLv3",
+        "point": 3,
+        "description": "肉やアイテムを食べる速度がかなり上昇する"
+      }
+    ]
+  },
+  {
+    "name": "耳栓",
+    "category": "特殊攻撃耐性",
+    "details": [
+      {
+        "name": "耳栓Lv1",
+        "point": 1,
+        "description": "咆哮【小】の影響を軽減する"
+      },
+      {
+        "name": "耳栓Lv2",
+        "point": 2,
+        "description": "咆哮【小】の影響を無効化"
+      },
+      {
+        "name": "耳栓Lv3",
+        "point": 3,
+        "description": "咆哮【小】を無効化し、咆哮【大】の影響を軽減する"
+      },
+      {
+        "name": "耳栓Lv4",
+        "point": 4,
+        "description": "咆哮【小】【大】を無効化する"
+      },
+      {
+        "name": "耳栓Lv5",
+        "point": 5,
+        "description": "咆哮【小】【大】を無効化し、強方向を軽減する"
+      }
+    ]
+  },
+  {
+    "name": "風圧耐性",
+    "category": "特殊攻撃耐性",
+    "details": [
+      {
+        "name": "風圧耐性Lv1",
+        "point": 1,
+        "description": "風圧【小】を無効化する"
+      },
+      {
+        "name": "風圧耐性Lv2",
+        "point": 2,
+        "description": "風圧【小】【大】を無効化する"
+      },
+      {
+        "name": "風圧耐性Lv3",
+        "point": 3,
+        "description": "風圧【小】【大】を無効化し、龍風圧の影響を軽減する"
+      }
+    ]
+  },
+  {
+    "name": "耐震",
+    "category": "特殊攻撃耐性",
+    "details": [
+      {
+        "name": "耐震Lv1",
+        "point": 1,
+        "description": "振動【小】を無効化"
+      },
+      {
+        "name": "耐震Lv2",
+        "point": 2,
+        "description": "振動【小】を無効化、振動【大】を軽減"
+      },
+      {
+        "name": "耐震Lv3",
+        "point": 3,
+        "description": "振動【小】【大】を無効化"
+      }
+    ]
+  },
+  {
+    "name": "泡沫の舞",
+    "category": "特殊攻撃耐性",
+    "details": [
+      {
+        "name": "泡沫の舞Lv1",
+        "point": 1,
+        "description": "泡やられ【大】の影響を軽減する"
+      },
+      {
+        "name": "泡沫の舞Lv2",
+        "point": 2,
+        "description": "泡やられ【大】を【小】に抑え泡やられ時に回避能力を強化する"
+      },
+      {
+        "name": "泡沫の舞Lv3",
+        "point": 3,
+        "description": "更に回避行動を複数回行うと泡やられ状態になる"
+      }
+    ]
+  },
+  {
+    "name": "回避性能",
+    "category": "戦闘(生存)",
+    "details": [
+      {
+        "name": "回避性能Lv1",
+        "point": 1,
+        "description": "無敵時間がほんのわずかに延長"
+      },
+      {
+        "name": "回避性能Lv2",
+        "point": 2,
+        "description": "無敵時間がわずかに延長"
+      },
+      {
+        "name": "回避性能Lv3",
+        "point": 3,
+        "description": "無敵時間が延長"
+      },
+      {
+        "name": "回避性能Lv4",
+        "point": 4,
+        "description": "無敵時間が大きく延長"
+      },
+      {
+        "name": "回避性能Lv5",
+        "point": 5,
+        "description": "無敵時間がとても大きく延長"
+      }
+    ]
+  },
+  {
+    "name": "回避距離ＵＰ",
+    "category": "戦闘(生存)",
+    "details": [
+      {
+        "name": "回避距離ＵＰLv1",
+        "point": 1,
+        "description": "回避距離がわずかに延長"
+      },
+      {
+        "name": "回避距離ＵＰLv2",
+        "point": 2,
+        "description": "回避距離が延長"
+      },
+      {
+        "name": "回避距離ＵＰLv3",
+        "point": 3,
+        "description": "回避距離が大きく延長"
+      }
+    ]
+  },
+  {
+    "name": "属性やられ耐性",
+    "category": "特殊攻撃耐性",
+    "details": [
+      {
+        "name": "属性やられ耐性Lv1",
+        "point": 1,
+        "description": "全ての属性やられの時間が50%減る"
+      },
+      {
+        "name": "属性やられ耐性Lv2",
+        "point": 2,
+        "description": "全ての属性やられの時間が75%減る"
+      },
+      {
+        "name": "属性やられ耐性Lv3",
+        "point": 3,
+        "description": "全ての属性やられを無効化"
+      }
+    ]
+  },
+  {
+    "name": "毒耐性",
+    "category": "特殊攻撃耐性",
+    "details": [
+      {
+        "name": "毒耐性Lv1",
+        "point": 1,
+        "description": "毒のダメージを受ける回数が少なくなる"
+      },
+      {
+        "name": "毒耐性Lv2",
+        "point": 2,
+        "description": "毒のダメージを受ける回数がとても少なくなる"
+      },
+      {
+        "name": "毒耐性Lv3",
+        "point": 3,
+        "description": "毒状態にならなくり、猛毒を軽減する"
+      }
+    ]
+  },
+  {
+    "name": "睡眠耐性",
+    "category": "特殊攻撃耐性",
+    "details": [
+      {
+        "name": "睡眠耐性Lv1",
+        "point": 1,
+        "description": "睡眠の時間が30%減少"
+      },
+      {
+        "name": "睡眠耐性Lv2",
+        "point": 2,
+        "description": "睡眠の時間が60%減少"
+      },
+      {
+        "name": "睡眠耐性Lv3",
+        "point": 3,
+        "description": "睡眠状態にならなくなる"
+      }
+    ]
+  },
+  {
+    "name": "気絶耐性",
+    "category": "特殊攻撃耐性",
+    "details": [
+      {
+        "name": "気絶耐性Lv1",
+        "point": 1,
+        "description": "気絶状態の時間を60%減らす"
+      },
+      {
+        "name": "気絶耐性Lv2",
+        "point": 2,
+        "description": "気絶状態の時間を90%減らす"
+      },
+      {
+        "name": "気絶耐性Lv3",
+        "point": 3,
+        "description": "気絶状態にならない"
+      }
+    ]
+  },
+  {
+    "name": "泥雪耐性",
+    "category": "特殊攻撃耐性",
+    "details": [
+      {
+        "name": "泥雪耐性Lv1",
+        "point": 1,
+        "description": "モンスターの発生させた泥地や深雪での行動制限を軽減する。移動の制限を軽減"
+      },
+      {
+        "name": "泥雪耐性Lv2",
+        "point": 2,
+        "description": "モンスターの発生させた泥地や深雪での行動制限を軽減する。移動の制限を受けない"
+      }
+    ]
+  },
+  {
+    "name": "植生学",
+    "category": "クエスト",
+    "details": [
+      {
+        "name": "植生学Lv1",
+        "point": 1,
+        "description": "草系消費アイテムの取得数+1"
+      },
+      {
+        "name": "植生学Lv2",
+        "point": 2,
+        "description": "さらに実、種系消費アイテムの取得数+1"
+      },
+      {
+        "name": "植生学Lv3",
+        "point": 3,
+        "description": "さらに虫系消費アイテムの取得数+1"
+      },
+      {
+        "name": "植生学Lv4",
+        "point": 4,
+        "description": "さらにキノコ系消費アイテムの取得数+1"
+      }
+    ]
+  },
+  {
+    "name": "地質学",
+    "category": "クエスト",
+    "details": [
+      {
+        "name": "地質学Lv1",
+        "point": 1,
+        "description": "骨採取ポイントの採取回数+1"
+      },
+      {
+        "name": "地質学Lv2",
+        "point": 2,
+        "description": "さらに特産品採取ポイントの採取回数+1"
+      },
+      {
+        "name": "地質学Lv3",
+        "point": 3,
+        "description": "さらに鉱石採取ポイントの採取回数+1"
+      }
+    ]
+  },
+  {
+    "name": "破壊王",
+    "category": "戦闘(攻撃)",
+    "details": [
+      {
+        "name": "破壊王Lv1",
+        "point": 1,
+        "description": "部位に対する蓄積ダメージ1.1倍"
+      },
+      {
+        "name": "破壊王Lv2",
+        "point": 2,
+        "description": "部位に対する蓄積ダメージ1.2倍"
+      },
+      {
+        "name": "破壊王Lv3",
+        "point": 3,
+        "description": "部位に対する蓄積ダメージ1.3倍"
+      }
+    ]
+  },
+  {
+    "name": "捕獲名人",
+    "category": "クエスト",
+    "details": [
+      {
+        "name": "捕獲名人Lv1",
+        "point": 1,
+        "description": "捕獲でもらえる報酬の数が高確率で多くなる"
+      }
+    ]
+  },
+  {
+    "name": "幸運",
+    "category": "クエスト",
+    "details": [
+      {
+        "name": "幸運Lv1",
+        "point": 1,
+        "description": "クエストクリアでもらえる報酬の数が多くなりやすい。得られる確率がわずかに上がる"
+      },
+      {
+        "name": "幸運Lv2",
+        "point": 2,
+        "description": "クエストクリアでもらえる報酬の数が多くなりやすい。得られる確率が上がる"
+      },
+      {
+        "name": "幸運Lv3",
+        "point": 3,
+        "description": "クエストクリアでもらえる報酬の数が多くなりやすい。得られる確率がさらに上がる"
+      }
+    ]
+  },
+  {
+    "name": "砥石使用高速化",
+    "category": "アイテム",
+    "details": [
+      {
+        "name": "砥石使用高速化Lv1",
+        "point": 1,
+        "description": "研ぎ動作を1回省略"
+      },
+      {
+        "name": "砥石使用高速化Lv2",
+        "point": 2,
+        "description": "研ぎ動作を2回省略"
+      },
+      {
+        "name": "砥石使用高速化Lv3",
+        "point": 3,
+        "description": "研ぎ動作を3回省略"
+      }
+    ]
+  },
+  {
+    "name": "ボマー",
+    "category": "アイテム",
+    "details": [
+      {
+        "name": "ボマーLv1",
+        "point": 1,
+        "description": "爆発系アイテムのダメージが1.1倍"
+      },
+      {
+        "name": "ボマーLv2",
+        "point": 2,
+        "description": "爆発系アイテムのダメージが1.2倍"
+      },
+      {
+        "name": "ボマーLv3",
+        "point": 3,
+        "description": "爆発系アイテムのダメージが1.3倍"
+      }
+    ]
+  },
+  {
+    "name": "キノコ大好き",
+    "category": "アイテム",
+    "details": [
+      {
+        "name": "キノコ大好きLv1",
+        "point": 1,
+        "description": "アオキノコと毒テングダケがたべられるようになる"
+      },
+      {
+        "name": "キノコ大好きLv2",
+        "point": 2,
+        "description": "さらにニトロダケとマヒダケを食べられるようになる"
+      },
+      {
+        "name": "キノコ大好きLv3",
+        "point": 3,
+        "description": "さらにマンドラゴラとドキドキノコが食べられるようになる"
+      }
+    ]
+  },
+  {
+    "name": "アイテム使用強化",
+    "category": "アイテム",
+    "details": [
+      {
+        "name": "アイテム使用強化Lv1",
+        "point": 1,
+        "description": "一部アイテムの効果時間が1.1倍"
+      },
+      {
+        "name": "アイテム使用強化Lv2",
+        "point": 2,
+        "description": "一部アイテムの効果時間が1.25倍"
+      },
+      {
+        "name": "アイテム使用強化Lv3",
+        "point": 3,
+        "description": "一部アイテムの効果時間が1.5倍"
+      }
+    ]
+  },
+  {
+    "name": "広域化",
+    "category": "アイテム",
+    "details": [
+      {
+        "name": "広域化Lv1",
+        "point": 1,
+        "description": "一部アイテムを使用した時、効果の1/3を周囲の仲間にも与える"
+      },
+      {
+        "name": "広域化Lv2",
+        "point": 2,
+        "description": "一部アイテムを使用した時、効果の1/3を広い範囲の仲間にも与える"
+      },
+      {
+        "name": "広域化Lv3",
+        "point": 3,
+        "description": "一部アイテムを使用した時、効果の2/3を広い範囲の仲間にも与える"
+      },
+      {
+        "name": "広域化Lv4",
+        "point": 4,
+        "description": "一部アイテムを使用した時、効果の2/3をかなり広い範囲の仲間にも与える"
+      },
+      {
+        "name": "広域化Lv5",
+        "point": 5,
+        "description": "一部アイテムを使用した時、そのままの効果をかなり広い範囲の仲間にも与える"
+      }
+    ]
+  },
+  {
+    "name": "満足感",
+    "category": "アイテム",
+    "details": [
+      {
+        "name": "満足感Lv1",
+        "point": 1,
+        "description": "10%の確率で食べたり飲んだりするアイテムがもう1度使える"
+      },
+      {
+        "name": "満足感Lv2",
+        "point": 2,
+        "description": "25%の確率で食べたり飲んだりするアイテムがもう1度使える"
+      },
+      {
+        "name": "満足感Lv3",
+        "point": 3,
+        "description": "45%の確率で食べたり飲んだりするアイテムがもう1度使える"
+      }
+    ]
+  },
+  {
+    "name": "火事場力",
+    "category": "戦闘(攻撃)",
+    "details": [
+      {
+        "name": "火事場力Lv1",
+        "point": 1,
+        "description": "体力が最大値の35%以下の時に防御力+50"
+      },
+      {
+        "name": "火事場力Lv2",
+        "point": 2,
+        "description": "体力が最大値の35%以下の時に攻撃力1.05倍、防御力+50"
+      },
+      {
+        "name": "火事場力Lv3",
+        "point": 3,
+        "description": "体力が最大値の35%以下の時に攻撃力1.05倍、防御力+100"
+      },
+      {
+        "name": "火事場力Lv4",
+        "point": 4,
+        "description": "体力が最大値の35%以下の時に攻撃力1.1倍、防御力+100"
+      },
+      {
+        "name": "火事場力Lv5",
+        "point": 5,
+        "description": "体力が最大値の35%以下の時に攻撃力1.3倍"
+      }
+    ]
+  },
+  {
+    "name": "不屈",
+    "category": "戦闘(攻撃)",
+    "details": [
+      {
+        "name": "不屈Lv1",
+        "point": 1,
+        "description": "1回力尽きるごとに攻撃力1.1倍、防御力1.15倍"
+      }
+    ]
+  },
+  {
+    "name": "ひるみ軽減",
+    "category": "戦闘(生存)",
+    "details": [
+      {
+        "name": "ひるみ軽減Lv1",
+        "point": 1,
+        "description": "のけぞり無効。"
+      },
+      {
+        "name": "ひるみ軽減Lv2",
+        "point": 2,
+        "description": "のけぞり無効、しりもちをのけぞりに軽減。"
+      },
+      {
+        "name": "ひるみ軽減Lv3",
+        "point": 3,
+        "description": "しりもちを無効。"
+      }
+    ]
+  },
+  {
+    "name": "ジャンプ鉄人",
+    "category": "クエスト",
+    "details": [
+      {
+        "name": "ジャンプ鉄人Lv1",
+        "point": 1,
+        "description": "ジャンプ中にのけぞり無効"
+      }
+    ]
+  },
+  {
+    "name": "腹減り耐性",
+    "category": "クエスト",
+    "details": [
+      {
+        "name": "腹減り耐性Lv1",
+        "point": 1,
+        "description": "スタミナ最大値の時間減少を50%延長"
+      },
+      {
+        "name": "腹減り耐性Lv2",
+        "point": 2,
+        "description": "スタミナ最大値の時間減少を100%延長"
+      },
+      {
+        "name": "腹減り耐性Lv3",
+        "point": 3,
+        "description": "スタミナ最大値の減少を無効化"
+      }
+    ]
+  },
+  {
+    "name": "飛び込み",
+    "category": "クエスト",
+    "details": [
+      {
+        "name": "飛び込みLv1",
+        "point": 1,
+        "description": "大型モンスターに向かってジャンプ回避ができるようになる。また、飛距離も伸びる"
+      }
+    ]
+  },
+  {
+    "name": "陽動",
+    "category": "クエスト",
+    "details": [
+      {
+        "name": "陽動Lv1",
+        "point": 1,
+        "description": "攻撃を当てたとき、モンスターの注意をより強く引くようになる"
+      }
+    ]
+  },
+  {
+    "name": "乗り名人",
+    "category": "クエスト",
+    "details": [
+      {
+        "name": "乗り名人Lv1",
+        "point": 1,
+        "description": "操竜ゲージが溜まりやすくなり回避カウンターが取りやすくなる"
+      }
+    ]
+  },
+  {
+    "name": "翔蟲使い",
+    "category": "クエスト",
+    "details": [
+      {
+        "name": "翔蟲使いLv1",
+        "point": 1,
+        "description": "野生の翔虫の使用可能時間が1.3倍になる"
+      },
+      {
+        "name": "翔蟲使いLv2",
+        "point": 2,
+        "description": "さらに翔虫受け身の回復速度上昇"
+      },
+      {
+        "name": "翔蟲使いLv3",
+        "point": 3,
+        "description": "さらに地上時は回復速度上昇"
+      }
+    ]
+  },
+  {
+    "name": "壁面移動",
+    "category": "クエスト",
+    "details": [
+      {
+        "name": "壁面移動Lv1",
+        "point": 1,
+        "description": "壁走り時のスタミナ消費が25％軽減される"
+      },
+      {
+        "name": "壁面移動Lv2",
+        "point": 2,
+        "description": "壁走り時のスタミナ消費が50％軽減される"
+      },
+      {
+        "name": "壁面移動Lv3",
+        "point": 3,
+        "description": "更に壁走りを行うことで一定時間攻撃力が上がる"
+      }
+    ]
+  },
+  {
+    "name": "逆襲",
+    "category": "戦闘(攻撃)",
+    "details": [
+      {
+        "name": "逆襲Lv1",
+        "point": 1,
+        "description": "ふきとばされた後は、一定時間攻撃力がある。スキル発動時、攻撃力+10"
+      },
+      {
+        "name": "逆襲Lv2",
+        "point": 2,
+        "description": "ふきとばされた後は、一定時間攻撃力がある。スキル発動時、攻撃力+15"
+      },
+      {
+        "name": "逆襲Lv3",
+        "point": 3,
+        "description": "ふきとばされた後は、一定時間攻撃力がある。スキル発動時、攻撃力+25"
+      }
+    ]
+  },
+  {
+    "name": "高速変形",
+    "category": "戦闘(剣士専用)",
+    "details": [
+      {
+        "name": "高速変形Lv1",
+        "point": 1,
+        "description": "スラッシュアックスとチャージアックスの変形アクションの速度と火力が上昇。速度が1.1倍になる"
+      },
+      {
+        "name": "高速変形Lv2",
+        "point": 2,
+        "description": "スラッシュアックスとチャージアックスの変形アクションの速度と火力が上昇。速度が1.2倍になり、変形攻撃のダメージが1.1倍になる"
+      },
+      {
+        "name": "高速変形Lv3",
+        "point": 3,
+        "description": "スラッシュアックスとチャージアックスの変形アクションの速度と火力が上昇。速度が1.3倍になり、変形攻撃のダメージが1.2倍になる"
+      }
+    ]
+  },
+  {
+    "name": "鬼火纏",
+    "category": "特殊攻撃耐性",
+    "details": [
+      {
+        "name": "鬼火纏Lv1",
+        "point": 1,
+        "description": "鬼火への耐性を得て、攻撃を行うことで鬼火を纏い爆発を攻撃に転用する。鬼火によって受けるダメージを減少する"
+      },
+      {
+        "name": "鬼火纏Lv2",
+        "point": 2,
+        "description": "鬼火への耐性を得て、攻撃を行うことで鬼火を纏い爆発を攻撃に転用する。鬼火爆発で与えるダメージを増加する"
+      },
+      {
+        "name": "鬼火纏Lv3",
+        "point": 3,
+        "description": "鬼火への耐性を得て、攻撃を行うことで鬼火を纏い爆発を攻撃に転用する。モンスター怒り時に自動で鬼火やられを発症する"
+      },
+      {
+        "name": "鬼火纏Lv4",
+        "point": 4,
+        "description": "鬼火への耐性を得て、攻撃を行うことで鬼火を纏い爆発を攻撃に転用する。モンスターの怒り終了後も効果が１分持続"
+      }
+    ]
+  },
+  {
+    "name": "風紋の一致",
+    "category": "シリーズスキル",
+    "details": [
+      {
+        "name": "風紋の一致Lv1",
+        "point": 1,
+        "description": "龍耐性+1"
+      },
+      {
+        "name": "風紋の一致Lv2",
+        "point": 2,
+        "description": "龍耐性+2"
+      },
+      {
+        "name": "風紋の一致Lv3",
+        "point": 3,
+        "description": "龍耐性+3"
+      },
+      {
+        "name": "風紋の一致Lv4",
+        "point": 4,
+        "description": "龍耐性+4"
+      },
+      {
+        "name": "風紋の一致Lv5",
+        "point": 5,
+        "description": "さらに強運の効果を得る"
+      }
+    ]
+  },
+  {
+    "name": "雷紋の一致",
+    "category": "シリーズスキル",
+    "details": [
+      {
+        "name": "雷紋の一致Lv1",
+        "point": 1,
+        "description": "雷耐性+1"
+      },
+      {
+        "name": "雷紋の一致Lv2",
+        "point": 2,
+        "description": "雷耐性+2"
+      },
+      {
+        "name": "雷紋の一致Lv3",
+        "point": 3,
+        "description": "雷耐性+3"
+      },
+      {
+        "name": "雷紋の一致Lv4",
+        "point": 4,
+        "description": "雷耐性+4"
+      },
+      {
+        "name": "雷紋の一致Lv5",
+        "point": 5,
+        "description": "さらに強運の効果を得る"
+      }
+    ]
+  },
+  {
+    "name": "剥ぎ取り鉄人",
+    "category": "クエスト",
+    "details": [
+      {
+        "name": "剥ぎ取り鉄人Lv1",
+        "point": 1,
+        "description": "剥ぎ取り中、のけぞり無効"
+      }
+    ]
+  },
+  {
+    "name": "ブレ抑制",
+    "category": "戦闘(ガンナー専用)",
+    "details": [
+      {
+        "name": "ブレ抑制Lv1",
+        "point": 1,
+        "description": "ブレを1段階軽減"
+      },
+      {
+        "name": "ブレ抑制Lv2",
+        "point": 2,
+        "description": "ブレを2段階軽減"
+      }
+    ]
+  },
+  {
+    "name": "麻痺耐性",
+    "category": "特殊攻撃耐性",
+    "details": [
+      {
+        "name": "麻痺耐性Lv1",
+        "point": 1,
+        "description": "麻痺の時間を30%減らす"
+      },
+      {
+        "name": "麻痺耐性Lv2",
+        "point": 2,
+        "description": "麻痺の時間を60%減らす"
+      },
+      {
+        "name": "麻痺耐性Lv3",
+        "point": 3,
+        "description": "麻痺状態にならない"
+      }
+    ]
+  },
+  {
+    "name": "爆破やられ耐性",
+    "category": "特殊攻撃耐性",
+    "details": [
+      {
+        "name": "爆破やられ耐性Lv1",
+        "point": 1,
+        "description": "爆破までの時間が延長され、爆破ダメージを軽減する"
+      },
+      {
+        "name": "爆破やられ耐性Lv2",
+        "point": 2,
+        "description": "爆破までの時間がさらに延長され、爆破ダメージを大きく軽減する"
+      },
+      {
+        "name": "爆破やられ耐性Lv3",
+        "point": 3,
+        "description": "爆破やられ状態にならない"
+      }
+    ]
+  },
+  {
+    "name": "達人芸",
+    "category": "戦闘(剣士専用)",
+    "details": [
+      {
+        "name": "達人芸Lv1",
+        "point": 1,
+        "description": "効果発動時、20％で斬れ味を消費しない"
+      },
+      {
+        "name": "達人芸Lv2",
+        "point": 2,
+        "description": "効果発動時、40％で斬れ味を消費しない"
+      },
+      {
+        "name": "達人芸Lv3",
+        "point": 3,
+        "description": "効果発動時、80％で斬れ味を消費しない"
+      }
+    ]
+  },
+  {
+    "name": "鋼殻の恩恵",
+    "category": "シリーズスキル",
+    "details": [
+      {
+        "name": "鋼殻の恩恵Lv1",
+        "point": 1,
+        "description": "水と氷の属性攻撃値を１．０５倍にする"
+      },
+      {
+        "name": "鋼殻の恩恵Lv2",
+        "point": 2,
+        "description": "水と氷の属性攻撃値を１．１倍にする"
+      },
+      {
+        "name": "鋼殻の恩恵Lv3",
+        "point": 3,
+        "description": "更に体力の自動回復が、ゲージの最大値まで継続する"
+      },
+      {
+        "name": "鋼殻の恩恵Lv4",
+        "point": 4,
+        "description": "更に熱によるダメージを無効化する"
+      }
+    ]
+  },
+  {
+    "name": "霞皮の恩恵",
+    "category": "シリーズスキル",
+    "details": [
+      {
+        "name": "霞皮の恩恵Lv1",
+        "point": 1,
+        "description": "ヒトダマドリの効果を稀に増やす"
+      },
+      {
+        "name": "霞皮の恩恵Lv2",
+        "point": 2,
+        "description": "更に風圧【小】【大】を無効化する"
+      },
+      {
+        "name": "霞皮の恩恵Lv3",
+        "point": 3,
+        "description": "更にモンスターに与える毒の効果時間を高める"
+      },
+      {
+        "name": "霞皮の恩恵Lv4",
+        "point": 4,
+        "description": "更に全ての風圧を無効化する"
+      }
+    ]
+  },
+  {
+    "name": "炎鱗の恩恵",
+    "category": "シリーズスキル",
+    "details": [
+      {
+        "name": "炎鱗の恩恵Lv1",
+        "point": 1,
+        "description": "火の属性攻撃値と爆破の蓄積値を１．０５倍にする"
+      },
+      {
+        "name": "炎鱗の恩恵Lv2",
+        "point": 2,
+        "description": "火の属性攻撃値と爆破の蓄積値を１．１倍にする"
+      },
+      {
+        "name": "炎鱗の恩恵Lv3",
+        "point": 3,
+        "description": "更に毒と猛毒状態にならない"
+      },
+      {
+        "name": "炎鱗の恩恵Lv4",
+        "point": 4,
+        "description": "更に盗みを無効化する"
+      }
+    ]
+  },
+  {
+    "name": "剥ぎ取り名人",
+    "category": "クエスト",
+    "details": [
+      {
+        "name": "剥ぎ取り名人Lv1",
+        "point": 1,
+        "description": "剥ぎ取り回数が１回増える。（クエストの途中からは、効果が得られません）"
+      }
+    ]
+  },
+  {
+    "name": "火耐性",
+    "category": "パラメータ変化",
+    "details": [
+      {
+        "name": "火耐性Lv1",
+        "point": 1,
+        "description": "火耐性+6。"
+      },
+      {
+        "name": "火耐性Lv2",
+        "point": 2,
+        "description": "火耐性+12。"
+      },
+      {
+        "name": "火耐性Lv3",
+        "point": 3,
+        "description": "火耐性+20、防御力+10。"
+      }
+    ]
+  },
+  {
+    "name": "水耐性",
+    "category": "パラメータ変化",
+    "details": [
+      {
+        "name": "水耐性Lv1",
+        "point": 1,
+        "description": "水耐性+6。"
+      },
+      {
+        "name": "水耐性Lv2",
+        "point": 2,
+        "description": "水耐性+12。"
+      },
+      {
+        "name": "水耐性Lv3",
+        "point": 3,
+        "description": "水耐性+20、防御力+10。"
+      }
+    ]
+  },
+  {
+    "name": "氷耐性",
+    "category": "パラメータ変化",
+    "details": [
+      {
+        "name": "氷耐性Lv1",
+        "point": 1,
+        "description": "氷耐性+6。"
+      },
+      {
+        "name": "氷耐性Lv2",
+        "point": 2,
+        "description": "氷耐性+12。"
+      },
+      {
+        "name": "氷耐性Lv3",
+        "point": 3,
+        "description": "氷耐性+20、防御力+10。"
+      }
+    ]
+  },
+  {
+    "name": "雷耐性",
+    "category": "パラメータ変化",
+    "details": [
+      {
+        "name": "雷耐性Lv1",
+        "point": 1,
+        "description": "雷耐性+6。"
+      },
+      {
+        "name": "雷耐性Lv2",
+        "point": 2,
+        "description": "雷耐性+12。"
+      },
+      {
+        "name": "雷耐性Lv3",
+        "point": 3,
+        "description": "雷耐性+20、防御力+10。"
+      }
+    ]
+  },
+  {
+    "name": "龍耐性",
+    "category": "パラメータ変化",
+    "details": [
+      {
+        "name": "龍耐性Lv1",
+        "point": 1,
+        "description": "龍耐性+6。"
+      },
+      {
+        "name": "龍耐性Lv2",
+        "point": 2,
+        "description": "龍耐性+12。"
+      },
+      {
+        "name": "龍耐性Lv3",
+        "point": 3,
+        "description": "龍耐性+20、防御力+10。"
+      }
+    ]
+  },
+  {
+    "name": "風雷合一",
+    "category": "シリーズスキル",
+    "details": [
+      {
+        "name": "風雷合一Lv1",
+        "point": 1,
+        "description": "雷と龍の属性攻撃値を１．０５倍にする"
+      },
+      {
+        "name": "風雷合一Lv2",
+        "point": 2,
+        "description": "雷と龍の属性攻撃値を１．１倍にする"
+      },
+      {
+        "name": "風雷合一Lv3",
+        "point": 3,
+        "description": "雷と龍の属性攻撃値を１．１５倍にする"
+      },
+      {
+        "name": "風雷合一Lv4",
+        "point": 4,
+        "description": "さらにこのスキル以外の防具のスキルレベルを＋１する"
+      },
+      {
+        "name": "風雷合一Lv5",
+        "point": 5,
+        "description": "さらにこのスキル以外の防具のスキルレベルをもう＋１する"
+      }
+    ]
+  },
+  {
+    "name": "龍気活性",
+    "category": "戦闘(攻撃)",
+    "details": [
+      {
+        "name": "龍気活性Lv1",
+        "point": 1,
+        "description": "体力50％以下で特殊な龍やられを発症し、全ての属性耐性が30になる。"
+      },
+      {
+        "name": "龍気活性Lv2",
+        "point": 2,
+        "description": "体力50％以下で特殊な龍やられを発症し、全ての属性耐性が50になる。"
+      },
+      {
+        "name": "龍気活性Lv3",
+        "point": 3,
+        "description": "体力70％以下で特殊な龍やられを発症し、全ての属性耐性が50になる。"
+      },
+      {
+        "name": "龍気活性Lv4",
+        "point": 4,
+        "description": "体力70％以下で特殊な龍やられを発症し全ての属性耐性が50になり、攻撃力1.05倍。"
+      },
+      {
+        "name": "龍気活性Lv5",
+        "point": 5,
+        "description": "体力80％以下で特殊な龍やられを発症し全ての属性耐性が50になり、攻撃力1.1倍。"
+      }
+    ]
+  }
+]
